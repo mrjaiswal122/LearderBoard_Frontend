@@ -10,6 +10,7 @@ npm install --force
 ```bash
 NEXT_PUBLIC_BACKEND_URL=http://localhost:7000
 ```
+# At last run the development server
 ```bash
 npm run dev
 ```
